@@ -1,7 +1,7 @@
 COSE: Common Sense
 OLS: Open Learning System
 
-Major: Management of Resource-Managing Organizations 
+Major: Management of Resource-Managing Organizations (MRMO)
 
 ESSENTIAL
 
